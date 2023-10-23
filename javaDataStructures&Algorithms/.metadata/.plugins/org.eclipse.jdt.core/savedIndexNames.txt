@@ -1,5 +1,4 @@
-INDEX VERSION 1.131+E:\ѧϰ\javaDataStructures&Algorithms\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+E:\Git\javaDataStructures&Algorithms\.metadata\.plugins\org.eclipse.jdt.core
 186220347.index
-2369301281.index
 1865797976.index
-3952302039.index
+2369301281.index
