@@ -4,6 +4,6 @@
     <fullyQualifiedTypeName name="queue.MyQueue"/>
     <fullyQualifiedTypeName name="LinkedList.LoopNode"/>
     <fullyQualifiedTypeName name="LinkedList.DoubleNode"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
